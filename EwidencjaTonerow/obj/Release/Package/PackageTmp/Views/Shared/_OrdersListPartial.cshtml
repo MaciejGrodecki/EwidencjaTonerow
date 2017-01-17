@@ -1,0 +1,64 @@
+﻿@model IEnumerable<EwidencjaTonerow.Models.Order>
+<table class="table table-hover table-borderless">
+    <thead>
+        <tr>
+            <th>
+                @Html.Label("Drukarka")
+            </th>
+            <th>
+                @Html.Label("Toner")
+            </th>
+            <th>
+                @Html.Label("Pomieszczenie")
+            </th>
+            <th>
+                @Html.Label("Data zapotrzebowania")
+            </th>
+            <th>
+                @Html.Label("Data dostarczenia")
+            </th>
+            <th>
+                @Html.Label("Data wymiany")
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Storehouse.Printer.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Storehouse.Toner.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Storehouse.Room.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SendDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DeliveryDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ChangeDate)
+                </td>
+                @if (ViewBag.HeaderTitle != "Dostarczone zamówienia")
+                {
+                    <td>
+                        <span class="pull-right">
+                            @Html.ActionLink("Dostarczono", "Index", new
+                       {
+                           deliveryOrderID = item.OrderID,
+                           printerID = item.Storehouse.Printer.PrinterID,
+                           roomID = item.Storehouse.Room.RoomID,
+                           tonerID = item.Storehouse.Toner.TonerID
+                       }, new { @class = "btn btn-info" })
+                        </span>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>

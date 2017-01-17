@@ -1,0 +1,99 @@
+﻿@model EwidencjaTonerow.Models.ExchangedStorehouseViewModel
+<div class="row">
+    <div class="col-md-6 col-lg-6" id="listOfItemsTitle"><h3>Wymienione tonery</h3></div>
+</div>
+<table class="table table-striped ">
+    <thead>
+        <tr>
+            <th>
+                @Html.Label("Nazwa drukarki")
+            </th>
+            <th>
+                @Html.Label("Pomieszczenie")
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @{ int collapseVal = 1;}
+        @{ int tonersCount = 0;}
+        @foreach (var item in Model.Printers)
+        {
+            int i = 0;
+            foreach (var room in item.Rooms)
+            {
+                <tr>
+                    @if (i == 0)
+                    {
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        i++;
+                    }
+                    else
+                    {
+                        <td></td>
+                    }
+                    <td>
+                        @Html.DisplayFor(modelItem => room.Name)
+                    </td>
+                    <td>
+                        <span class="pull-right">
+                            <a href="#@collapseVal" class="btn btn-success" data-toggle="collapse"
+                               aria-expanded="false" aria-controls="collapseToner" role="button">Rozwiń</a>
+                        </span>
+                    </td>
+                </tr>
+                <tr class="collapse" id="@collapseVal">
+                    <td colspan="2">
+                        <div class="col-md-6 col-lg-6" id="listOfItemsTitle">
+                            <h4>
+                                Zamówienia
+                            </h4>
+                        </div>
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>
+                                        @Html.Label("Nazwa tonera")
+                                    </th>
+                                    <th>
+                                        @Html.Label("Data wysłania")
+                                    </th>
+                                    <th>
+                                        @Html.Label("Data dostarczenia")
+                                    </th>
+                                    <th>
+                                        @Html.Label("Data wymiany")
+                                    </th>
+                                </tr>
+                            </thead>
+                            @foreach (var order in Model.Orders)
+                            {
+                                if (order.Storehouse.Printer.PrinterID == item.PrinterID && order.Storehouse.Room.RoomID == room.RoomID)
+                                {
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => order.Storehouse.Toner.Name)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => order.SendDate)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => order.DeliveryDate)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => order.ChangeDate)
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                }
+                            }
+                        </table>
+                    </td>
+                </tr>
+                                    collapseVal++;
+                                }
+                            }
+    </tbody>
+</table>

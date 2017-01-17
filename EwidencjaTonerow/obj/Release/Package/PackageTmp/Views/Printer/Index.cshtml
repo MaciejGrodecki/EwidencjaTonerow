@@ -1,0 +1,96 @@
+﻿@model EwidencjaTonerow.Models.IndexPrinterViewModel
+
+<div class="row">
+    <div class="col-md-6 col-lg-6" id="listOfItemsTitle"><h3>Słownik drukarek</h3></div>
+    <div class="col-md-6 col-lg-6">
+        <span class="pull-right">@Html.ActionLink("Dodaj nową drukarkę", "Add", null, new { @class = "btn btn-success", id = "createNewButton" })</span>
+    </div>
+</div>
+<table class="table table-hover table-borderless">
+    <thead>
+        <tr>
+            <th>
+                @Html.Label("Drukarka")
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Printers)
+        {
+            string selectedRow = "";
+            if (item.PrinterID == ViewBag.PrinterID)
+            {
+                selectedRow = "success";
+            }
+            <tr class="@selectedRow">
+                <td class="text-uppercase">
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td></td>
+                <td>
+                    <span class="pull-right">
+                        @Html.ActionLink("Dodaj pomieszczenie", "Index", new { PrinterID = item.PrinterID }, new { @class = "btn btn-info" })
+                        @Html.ActionLink("Dodaj toner", "Index", new { PrinterTonerID = item.PrinterID }, new { @class = "btn btn-warning" })
+                        @Html.ActionLink("Usuń", "Delete", new { printerID = item.PrinterID },
+                                        new { @class = "btn btn-danger", onclick = "return confirm('Czy na pewno chcesz usunąć to pomieszczenie?');" })
+                    </span>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@if (Model.Rooms != null)
+{
+    <div class="row">
+        <div class="col-md-6 col-lg-6" id="listOfItemsTitle"><h3>Pomieszczenia</h3></div>
+    </div>
+    <table class="table">
+        <tr>
+            <th>Nazwa</th>
+        </tr>
+
+        @foreach (var item in Model.Rooms)
+        {
+            string selectedRow = "";
+            if (item.RoomID == ViewBag.RoomID)
+            {
+                selectedRow = "success";
+            }
+            <tr class="@selectedRow">
+                <td>
+                    @item.Name
+                </td>
+            </tr>
+        }
+    </table>
+    <div class="col-md-12 col-lg-12">
+        <span class="pull-right">@Html.ActionLink("Dodaj pomieszczenie do drukarki", "AddRoomToPrinter", new { PrinterID = ViewBag.PrinterID }, new { @class = "btn btn-success", id = "createNewButton" })</span>
+    </div>
+}
+@if (Model.Toners != null)
+{
+    <div class="row">
+        <div class="col-md-6 col-lg-6" id="listOfItemsTitle"><h3>Tonery</h3></div>
+    </div>
+    <table class="table">
+        <tr>
+            <th>Nazwa</th>
+        </tr>
+        @foreach (var item in Model.Toners)
+        {
+            string selectedRow = "";
+            if (item.TonerID == ViewBag.TonerID)
+            {
+                selectedRow = "success";
+            }
+            <tr class="@selectedRow">
+                <td>
+                    @item.Name
+                </td>
+            </tr>
+        }
+    </table>
+    <div class="col-md-12 col-lg-12">
+        <span class="pull-right">@Html.ActionLink("Dodaj toner do drukarki", "AddTonerToPrinter", new { PrinterID = ViewBag.PrinterID }, new { @class = "btn btn-success", id = "createNewButton" })</span>
+    </div>
+}

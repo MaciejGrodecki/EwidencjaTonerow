@@ -1,0 +1,40 @@
+﻿@model EwidencjaTonerow.Models.AddRoomViewModel
+
+@{
+    ViewBag.Title = "Dodaj pomieszczenie";
+}
+
+<div class="row">
+    <div class="col-md-6 col-lg-6" id="listOfItemsTitle"><h2>Dodaj pomieszczenie</h2></div>
+</div>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="row">
+        <div class="col-md-2 col-lg-2">
+        </div>
+        <div class="col-md-8 col-lg8">
+            @Html.ValidationMessage("AlreadyExistInformation", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2 col-lg-2">
+            <div class="form-group">
+                @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-12" })
+            </div>
+        </div>
+        <div class="col-md-8 col-lg8">
+            @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+        </div>
+    </div>
+        <div class="row">
+            <div class="col-md-8 col-lg8">
+            </div>
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Utwórz" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+}

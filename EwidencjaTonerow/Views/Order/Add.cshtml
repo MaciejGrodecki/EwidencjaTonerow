@@ -1,0 +1,124 @@
+﻿@model EwidencjaTonerow.Models.AddOrderViewModel
+@{
+    ViewBag.Title = "Dodaj zapotrzebowanie";
+}
+<div class="row">
+    <div class="col-md-6 col-lg-6" id="listOfItemsTitle"><h2>Dodaj zamówienie</h2></div>
+</div>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="row">
+        <div class="col-md-8 col-lg-8">
+        </div>
+        <div class="col-md-4 col-lg4">
+            @Html.ValidationMessage("AlreadyExistInformation", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2 col-lg-2">
+            <div class="form-group">
+                @Html.Label("Drukarka", htmlAttributes: new { @class = "control-label col-md-12" })
+            </div>
+        </div>
+        <div class="col-md-8 col-lg-8">
+            @Html.DropDownListFor(p => p.PrinterID, new SelectList(Model.Printers, "PrinterID", "Name"),
+    "--Wybierz drukarkę--", new { @class = "form-control", @id = "ddlPrinters" })
+       
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2 col-lg-2">
+            <div class="form-group">
+                @Html.Label("Pomieszczenie", htmlAttributes: new { @class = "control-label col-md-12" })
+            </div>
+        </div>
+        <div class="col-md-8 col-lg-8">
+            @Html.DropDownListFor(d => d.RoomID, new SelectList(string.Empty),
+           null, htmlAttributes: new { @class = "form-control", @id = "ddlRooms" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2 col-lg-2">
+            <div class="form-group">
+                @Html.Label("Toner", htmlAttributes: new { @class = "control-label col-md-12" })
+            </div>
+        </div>
+        <div class="col-md-8 col-lg-8">
+            @Html.DropDownListFor(t => t.TonerID, new SelectList(string.Empty),
+           null, htmlAttributes: new { @class = "form-control", @id = "ddlToners" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2 col-lg-2">
+            <div class="form-group">
+                @Html.LabelFor(model => model.SendDate, htmlAttributes: new { @class = "control-label col-md-12" })
+            </div>
+        </div>
+        <div class="col-md-8 col-lg-8">
+            @Html.EditorFor(model => model.SendDate, new { htmlAttributes = new { @class = "form-control" } })
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-8 col-lg8">
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Utwórz" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+@section scripts{
+    @Scripts.Render("~/bundles/jquery")
+    <script>
+        $(document).ready(function () {
+            $("#ddlPrinters").change(function () {
+                $("#ddlRooms").empty();
+                $.ajax({
+                    type: 'POST',
+                    url: '@Url.Action("GetPrinterRooms")',
+                    dataType: 'json',
+                    data: { printerID: $("#ddlPrinters").val() },
+
+                    success: function (rooms) {
+                        $.each(rooms, function (i, room) {
+                            $("#ddlRooms").append('<option value="' + room.Value + '">' +
+                                room.Text + '</option>');
+                        });
+                    },
+                    error: function (ex) {
+
+                    }
+                });
+                return false;
+
+            })
+        });
+    </script>
+    <script>
+        $(document).ready(function () {
+            $("#ddlPrinters").change(function () {
+                $("#ddlToners").empty();
+                $.ajax({
+                    type: 'POST',
+                    url: '@Url.Action("GetPrinerToners")',
+                    dataType: 'json',
+                    data: { printerID: $("#ddlPrinters").val() },
+
+                    success: function (toners) {
+                        $.each(toners, function (i, toner) {
+                            $("#ddlToners").append('<option value="' + toner.Value + '">' +
+                                toner.Text + '</option>');
+                        });
+                    },
+                    error: function (ex) {
+
+                    }
+                });
+                return false;
+
+            })
+        });
+    </script>
+}

@@ -1,0 +1,12 @@
+﻿@model EwidencjaTonerow.Models.DeliveredOrderViewModel
+@{
+    ViewBag.Title = "Zamówienia";
+}
+<div class="row">
+    <div class="col-md-6 col-lg-6" id="listOfItemsTitle"><h3>@ViewBag.HeaderTitle</h3></div>
+    <div class="col-md-6 col-lg-6">
+        <span class="pull-right">@Html.ActionLink("Dodaj nowe zamówienie", "Add", null, new { @class = "btn btn-success", id = "createNewButton" })</span>
+    </div>
+</div>
+
+@Html.Partial("_OrdersListPartial", Model.Orders)

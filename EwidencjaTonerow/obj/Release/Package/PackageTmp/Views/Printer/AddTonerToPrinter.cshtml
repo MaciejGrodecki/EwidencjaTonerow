@@ -1,0 +1,45 @@
+﻿@model EwidencjaTonerow.Models.AddTonerToPrinterViewModel
+@{
+    ViewBag.Title = "Powiąż toner z drukarką";
+}
+
+<div class="row">
+    <div class="col-md-6 col-lg-6" id="listOfItemsTitle">
+        <h2>Powiąż toner z drukarką</h2>
+    </div>
+</div>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="row">
+        <div class="col-md-2 col-lg-2">
+            <div class="form-group">
+                @Html.LabelFor(model => model.Printer.Name, htmlAttributes: new { @class = "control-label col-md-12" })
+            </div>
+        </div>
+        <div class="col-md-8 col-lg-8">
+            @Html.DisplayFor(model => model.Printer.Name, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2 col-lg-2">
+            <div class="form-group">
+                @Html.Label("Tonery", htmlAttributes: new { @class = "control-label col-md-12" })
+            </div>
+        </div>
+        <div class="col-md-8 col-lg-8">
+            @Html.DropDownListFor(t => t.TonerID, new SelectList(Model.Toners, "TonerID", "Name"),
+           "--Wybierz toner--", new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-8 col-lg8">
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Utwórz" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}

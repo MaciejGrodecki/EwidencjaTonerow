@@ -1,0 +1,42 @@
+﻿@model EwidencjaTonerow.Models.IndexTonerViewModel
+
+@{
+    ViewBag.Title = "Słownik tonerów";
+}
+
+<div class="row">
+    <div class="col-md-6 col-lg-6" id="listOfItemsTitle"><h3>Słownik tonerów</h3></div>
+    <div class="col-md-6 col-lg-6">
+        <span class="pull-right">@Html.ActionLink("Dodaj nowy toner", "Add", null, new { @class = "btn btn-success", id = "createNewButton" })</span>
+    </div>
+</div>
+<table class="table table-hover table-borderless">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Toners[0].Name)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Toners)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    <div id="errorDeleteInfo">
+                        @Html.Raw(ViewBag.ConnectionsInfo)
+                    </div>
+                </td>
+                <td>
+                    <span class="pull-right">
+                        @Html.ActionLink("Usuń", "Delete", new { TonerID = item.TonerID },
+                                        new { @class = "btn btn-danger", onclick = "return confirm('Czy na pewno chcesz usunąć to pomieszczenie?');" })
+                    </span>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

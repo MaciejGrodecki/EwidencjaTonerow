@@ -1,0 +1,1093 @@
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\ApplicationInsights.config
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\csc.exe
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Collections.Immutable.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Reflection.Metadata.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\vbc.exe
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe.config
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll.config
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.pdb
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.Web.Infrastructure.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\WebGrease.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.pdb
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.xml
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.xml
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.xml
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.xml
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.xml
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.xml
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.xml
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.xml
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.xml
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.xml
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.xml
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.xml
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csprojResolveAssemblyReference.cache
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.dll
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.pdb
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.Initial.resources
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csproj.GenerateResource.Cache
+E:\Ost\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddTonerTable.resources
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\ApplicationInsights.config
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\csc.exe
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Collections.Immutable.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\vbc.exe
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe.config
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll.config
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.pdb
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.Web.Infrastructure.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\WebGrease.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.pdb
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.xml
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.xml
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.xml
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.xml
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.xml
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.xml
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.xml
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.xml
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.xml
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.xml
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.xml
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csprojResolveAssemblyReference.cache
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.Initial.resources
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddTonerTable.resources
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csproj.GenerateResource.Cache
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.dll
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.pdb
+D:\Projekty\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeTonerTable.resources
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\ApplicationInsights.config
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\csc.exe
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Collections.Immutable.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Reflection.Metadata.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\vbc.exe
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe.config
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll.config
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.pdb
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.Web.Infrastructure.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\WebGrease.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.pdb
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.xml
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.xml
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.xml
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.xml
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.xml
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.xml
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.xml
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.xml
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.xml
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.xml
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.xml
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.xml
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csprojResolveAssemblyReference.cache
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.Initial.resources
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddTonerTable.resources
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeTonerTable.resources
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csproj.GenerateResource.Cache
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.dll
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.pdb
+E:\Ost\0812\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddOrdersTable.resources
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\ApplicationInsights.config
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\csc.exe
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Collections.Immutable.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\vbc.exe
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe.config
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll.config
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.pdb
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.Web.Infrastructure.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\WebGrease.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.pdb
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.xml
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.xml
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.xml
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.xml
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.xml
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.xml
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.xml
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.xml
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.xml
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.xml
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.xml
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csprojResolveAssemblyReference.cache
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.Initial.resources
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddTonerTable.resources
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeTonerTable.resources
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddOrdersTable.resources
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csproj.GenerateResource.Cache
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.dll
+D:\Projekty\0912\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.pdb
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\ApplicationInsights.config
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\csc.exe
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Collections.Immutable.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\vbc.exe
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe.config
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll.config
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.pdb
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.Web.Infrastructure.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\WebGrease.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.pdb
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.xml
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.xml
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.xml
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.xml
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.xml
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.xml
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.xml
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.xml
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.xml
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.xml
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.xml
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csprojResolveAssemblyReference.cache
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.Initial.resources
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddTonerTable.resources
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeTonerTable.resources
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddOrdersTable.resources
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csproj.GenerateResource.Cache
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.dll
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.pdb
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTable.resources
+D:\Projekty programowanie\1212\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTableSecond.resources
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\ApplicationInsights.config
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\csc.exe
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Collections.Immutable.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Reflection.Metadata.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\vbc.exe
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe.config
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll.config
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.pdb
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.Web.Infrastructure.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\WebGrease.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.pdb
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.xml
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.xml
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.xml
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.xml
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.xml
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.xml
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.xml
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.xml
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.xml
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.xml
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.xml
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.xml
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csprojResolveAssemblyReference.cache
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.Initial.resources
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddTonerTable.resources
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeTonerTable.resources
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddOrdersTable.resources
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTable.resources
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTableSecond.resources
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csproj.GenerateResource.Cache
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.dll
+E:\Ost\1512\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.pdb
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\ApplicationInsights.config
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\csc.exe
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Collections.Immutable.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\vbc.exe
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe.config
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll.config
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.pdb
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.Web.Infrastructure.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\WebGrease.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.pdb
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.xml
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.xml
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.xml
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.xml
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.xml
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.xml
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.xml
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.xml
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.xml
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.xml
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.xml
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csprojResolveAssemblyReference.cache
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.Initial.resources
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddTonerTable.resources
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeTonerTable.resources
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddOrdersTable.resources
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTable.resources
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTableSecond.resources
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csproj.GenerateResource.Cache
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.dll
+D:\Projekty programowanie\1612\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.pdb
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\ApplicationInsights.config
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\csc.exe
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Collections.Immutable.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\vbc.exe
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe.config
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll.config
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.pdb
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.Web.Infrastructure.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\WebGrease.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.pdb
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.xml
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.xml
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.xml
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.xml
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.xml
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.xml
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.xml
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.xml
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.xml
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.xml
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.xml
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csprojResolveAssemblyReference.cache
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.Initial.resources
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddTonerTable.resources
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeTonerTable.resources
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddOrdersTable.resources
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTable.resources
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTableSecond.resources
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csproj.GenerateResource.Cache
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.dll
+D:\Projekty programowanie\1812\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.pdb
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\ApplicationInsights.config
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\csc.exe
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Collections.Immutable.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Reflection.Metadata.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\vbc.exe
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe.config
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll.config
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.pdb
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.Web.Infrastructure.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\WebGrease.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.pdb
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.xml
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.xml
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.xml
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.xml
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.xml
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.xml
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.xml
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.xml
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.xml
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.xml
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.xml
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.xml
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csprojResolveAssemblyReference.cache
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.Initial.resources
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddTonerTable.resources
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeTonerTable.resources
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddOrdersTable.resources
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTable.resources
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTableSecond.resources
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csproj.GenerateResource.Cache
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.dll
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.pdb
+E:\Ost\2012\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddStorehouseTable.resources
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\ApplicationInsights.config
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\csc.exe
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Collections.Immutable.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Reflection.Metadata.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\vbc.exe
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe.config
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll.config
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.pdb
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.Web.Infrastructure.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\WebGrease.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.pdb
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.xml
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.xml
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.xml
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.xml
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.xml
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.xml
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.xml
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.xml
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.xml
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.xml
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.xml
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.xml
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csprojResolveAssemblyReference.cache
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.Initial.resources
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddTonerTable.resources
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeTonerTable.resources
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddOrdersTable.resources
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTable.resources
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTableSecond.resources
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddStorehouseTable.resources
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csproj.GenerateResource.Cache
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.dll
+E:\Ost\2112\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.pdb
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\ApplicationInsights.config
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\csc.exe
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Collections.Immutable.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Reflection.Metadata.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\vbc.exe
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe.config
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll.config
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.pdb
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.Web.Infrastructure.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\WebGrease.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.pdb
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.xml
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.xml
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.xml
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.xml
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.xml
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.xml
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.xml
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.xml
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.xml
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.xml
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.xml
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.xml
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csprojResolveAssemblyReference.cache
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.Initial.resources
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddTonerTable.resources
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeTonerTable.resources
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddOrdersTable.resources
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTable.resources
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTableSecond.resources
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddStorehouseTable.resources
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csproj.GenerateResource.Cache
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.dll
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.pdb
+E:\Ost\2212\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AllowNullFieldsInStorehouseTable.resources
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\ApplicationInsights.config
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\csc.exe
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Collections.Immutable.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\vbc.exe
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe.config
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll.config
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.pdb
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.Web.Infrastructure.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\WebGrease.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.pdb
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.xml
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.xml
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.xml
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.xml
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.xml
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.xml
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.xml
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.xml
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.xml
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.xml
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.xml
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csprojResolveAssemblyReference.cache
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.Initial.resources
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddTonerTable.resources
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeTonerTable.resources
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddOrdersTable.resources
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTable.resources
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTableSecond.resources
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddStorehouseTable.resources
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AllowNullFieldsInStorehouseTable.resources
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csproj.GenerateResource.Cache
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.dll
+D:\Projekty programowanie\2312\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.pdb
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\ApplicationInsights.config
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\csc.exe
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Collections.Immutable.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\vbc.exe
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe.config
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll.config
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.pdb
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.Web.Infrastructure.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\WebGrease.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.pdb
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.xml
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.xml
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.xml
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.xml
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.xml
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.xml
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.xml
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.xml
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.xml
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.xml
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.xml
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csprojResolveAssemblyReference.cache
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.Initial.resources
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddTonerTable.resources
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeTonerTable.resources
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddOrdersTable.resources
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTable.resources
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTableSecond.resources
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddStorehouseTable.resources
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AllowNullFieldsInStorehouseTable.resources
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csproj.GenerateResource.Cache
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.dll
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.pdb
+D:\Projekty programowanie\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeOrderTable.resources
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\ApplicationInsights.config
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\csc.exe
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Collections.Immutable.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Reflection.Metadata.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\vbc.exe
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe.config
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll.config
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.pdb
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.Web.Infrastructure.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\WebGrease.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.pdb
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.xml
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.xml
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.xml
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.xml
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.xml
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.xml
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.xml
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.xml
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.xml
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.xml
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.xml
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.xml
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.Initial.resources
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddTonerTable.resources
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeTonerTable.resources
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddOrdersTable.resources
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTable.resources
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTableSecond.resources
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddStorehouseTable.resources
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AllowNullFieldsInStorehouseTable.resources
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeOrderTable.resources
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csproj.GenerateResource.Cache
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.dll
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.pdb
+E:\Ost\2712\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csprojResolveAssemblyReference.cache
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\ApplicationInsights.config
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\csc.exe
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Collections.Immutable.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Reflection.Metadata.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\vbc.exe
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe.config
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll.config
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.pdb
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.Web.Infrastructure.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\WebGrease.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.pdb
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.xml
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.xml
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.xml
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.xml
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.xml
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.xml
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.xml
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.xml
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.xml
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.xml
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.xml
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.xml
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csprojResolveAssemblyReference.cache
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.Initial.resources
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddTonerTable.resources
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeTonerTable.resources
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddOrdersTable.resources
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTable.resources
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTableSecond.resources
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddStorehouseTable.resources
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AllowNullFieldsInStorehouseTable.resources
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeOrderTable.resources
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csproj.GenerateResource.Cache
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.dll
+E:\Ost\0501\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.pdb
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\ApplicationInsights.config
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\csc.exe
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Collections.Immutable.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\vbc.exe
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe.config
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll.config
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.pdb
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.Web.Infrastructure.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\WebGrease.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.pdb
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.xml
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.xml
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.xml
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.xml
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.xml
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.xml
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.xml
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.xml
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.xml
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.xml
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.xml
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csprojResolveAssemblyReference.cache
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.Initial.resources
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddTonerTable.resources
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeTonerTable.resources
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddOrdersTable.resources
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTable.resources
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTableSecond.resources
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddStorehouseTable.resources
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AllowNullFieldsInStorehouseTable.resources
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeOrderTable.resources
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csproj.GenerateResource.Cache
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.dll
+D:\Projekty programowanie\0901\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.pdb
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\ApplicationInsights.config
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\csc.exe
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Collections.Immutable.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Reflection.Metadata.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\vbc.exe
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe.config
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll.config
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.pdb
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.Web.Infrastructure.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\WebGrease.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.pdb
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.xml
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.xml
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.xml
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.xml
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.xml
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.xml
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.xml
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.xml
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.xml
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.xml
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.xml
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.xml
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csprojResolveAssemblyReference.cache
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.Initial.resources
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddTonerTable.resources
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeTonerTable.resources
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddOrdersTable.resources
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTable.resources
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTableSecond.resources
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddStorehouseTable.resources
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AllowNullFieldsInStorehouseTable.resources
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeOrderTable.resources
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csproj.GenerateResource.Cache
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.dll
+E:\Ost\0901_dom\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.pdb
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\ApplicationInsights.config
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\csc.exe
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Collections.Immutable.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\vbc.exe
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\roslyn\VBCSCompiler.exe.config
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll.config
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\EwidencjaTonerow.pdb
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.Web.Infrastructure.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\WebGrease.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\Antlr3.Runtime.pdb
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.Web.xml
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.AI.WindowsServer.xml
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.ApplicationInsights.xml
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\Newtonsoft.Json.xml
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Optimization.xml
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Razor.xml
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.xml
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Deployment.xml
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Webpages.Razor.xml
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Helpers.xml
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\bin\System.Web.Mvc.xml
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csprojResolveAssemblyReference.cache
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.Initial.resources
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddTonerTable.resources
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeTonerTable.resources
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddOrdersTable.resources
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTable.resources
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeToneTableSecond.resources
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AddStorehouseTable.resources
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.AllowNullFieldsInStorehouseTable.resources
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.Migrations.ChangeOrderTable.resources
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.csproj.GenerateResource.Cache
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.dll
+D:\Projekty programowanie\1701\EwidencjaTonerow\EwidencjaTonerow\obj\Debug\EwidencjaTonerow.pdb
